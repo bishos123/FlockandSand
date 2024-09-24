@@ -1,10 +1,7 @@
 
-# Flock and Sand
-
- <img src="Screenshot_08.png" width="425"/> <img src="Screenshot_09.png" width="570"/> 
-
-
 # Flock and Sand Simulator
+
+<img src="Screenshot_08.png" width="625"/>
 
 ## Overview
 The Flock and Sand Simulator is a physics simulation that visualizes flocking behavior and granular sand dynamics. This project demonstrates how simple rules can lead to complex behaviors in natural systems.
@@ -40,3 +37,4 @@ The Flock and Sand Simulator is a physics simulation that visualizes flocking be
     python 'Floaking Simulator.py' 
     python 'Sand Simulator.py'
     ```
+<img src="Screenshot_09.png" width="770"/> 
